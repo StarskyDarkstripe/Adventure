@@ -1,0 +1,2 @@
+Every page will link to another and will be filled with only what is on that page in the book and there are 116 pages so a total of 117 html pages, all of which will have at least one button on them.
+That is a lot of code that I will need to write, this will take me a while, possibly a week or more, depending on how much I procrastinate.
